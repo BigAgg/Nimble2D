@@ -1,0 +1,8 @@
+g++
+-std=c++20
+-IC:\Users\adria\Desktop\Nimble\Nimble2D\include
+-IC:\Users\adria\Desktop\Nimble\Nimble2D\include\lua
+-IC:\Users\adria\Desktop\Nimble\Nimble2D\include\raylib
+-IC:\Users\adria\Desktop\Nimble\Nimble2D\include\rlimgui
+-IC:\Users\adria\Desktop\Nimble\Nimble2D\include\rlimgui\extras
+-IC:\Users\adria\Desktop\Nimble\Nimble2D\include\sol
